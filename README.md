@@ -1,5 +1,4 @@
 ## Student Sample
 
-Empty template for student github repository for storing and sharing weekly projects and reading reflections. 
 
-This is the README document. Use it to describe a little about yourself!
+Hi, I'm Sonia. I'm a first year masters student in the Computer Science department. My main interests are in computer graphics and rendering. I want to work on tools that improve or augment immersive media experiences.   
