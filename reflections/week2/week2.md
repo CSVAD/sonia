@@ -1,4 +1,4 @@
-"Regularity" from *10 PRINT CHR$(205.5+RND(1)); : GOTO 10* by Nick Monfort et. al
+### "Regularity" from *10 PRINT CHR$(205.5+RND(1)); : GOTO 10* by Nick Monfort et. al
 
 For me, a few points stood out in this exploration of the use of regularity across time and space to explore and perturb iterative processes.
 
