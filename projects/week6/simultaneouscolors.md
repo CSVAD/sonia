@@ -12,7 +12,7 @@ I was also inspired by "Simultaneous Windows" by Robert Delaunay.
 ![A1](images/img1.png)
 
 
-![A2](images/img3.png)
+![A2](images/img2.png)
 
 
 ![A3](images/img3.png)
