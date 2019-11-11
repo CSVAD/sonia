@@ -2,7 +2,7 @@
 
 > "we believe the best learning experiences, for most people, come when they are actively engaged in designing and creating things, especially things that are meaningful to them or others around them"
 
-> "When we observe users repeatedly making the same 'mistake' with a prototype, we sometimes are able to revise the software so that it behaves in the way that users had expected
+> "When we observe users repeatedly making the same 'mistake' with a prototype, we sometimes are able to revise the software so that it behaves in the way that users had expected."
 
 - Microworlds for exploring ideas (emergence)
 
@@ -27,4 +27,4 @@ Lastly while I concur with his analysis of Processing in terms of its naming, la
 
 ### "Extending Manual Drawing Practices with Artist-Centric Programming Tools" by Jennifer Jacobs, Joel Brandt, Radomir Mech and Mitchel Resnick
 
-I think there are many interesting aspects to this paper. One that jumped off the page on account of some recent discussions was how DB affected Tritt and McGill's idea about processes and their own art making by expanding or shifting how they think about working with tools. Tritt in particular also mentioned exploring how to create works that are not achievable in any other media which brought to mind Bret Victor's talk "Stop Drawing Dead Fish." The design choices such as the brush implementation and feedback and how they evolved through the course of the project's development and evaluation also indicated that perhaps the most significant challenge of creating tools in any domain is discovering what constitutes a suitable representation or an effective workflow within that context. 
+I think there are many interesting aspects to this paper. One that jumped off the page on account of some recent discussions was how DB affected Tritt and McGill's idea about processes and their own art making by expanding or shifting how they think about working with tools. Tritt in particular also mentioned exploring how to create works that are not achievable in any other media which brought to mind Bret Victor's talk "Stop Drawing Dead Fish." The design choices such as the brush implementation and feedback and how they evolved through the course of the project's development and evaluation also indicated that perhaps the most significant challenge of creating tools in any domain is discovering what constitutes a suitable representation or an effective workflow within that context.
