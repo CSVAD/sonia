@@ -1,13 +1,11 @@
 ## Final Project Proposal
 
-[Presentation](https://docs.google.com/presentation/d/1QycmD7Vcdj1jhYVERoIXwdhlqIptt1QsiLrX4nNNFa8/edit?usp=sharing)
-
 ### Learnable Machine Learning
 
 Build a library for learnable machine learning using TensorFlow.js and p5.js. I think this would extend beyond a two-week course project, but one possible stopping point would be to be able to go between modifying a graphical representation and an actual model.
 
 [Visualization in Deep Learning by Fred Hohman](https://medium.com/multiple-views-visualization-research-explained/visualization-in-deep-learning-b29f0ec4f136)
-- Insightful log post on challenges surrounding visualization systems centered on neural networks
+- Blog post
 
 [TensorFlow.js](https://www.tensorflow.org/js/)
 
@@ -32,7 +30,7 @@ Examples of NN Visualizations
 
 [Learnable Programming by Bret Victor](http://worrydream.com/LearnableProgramming/)
 
-[Software Developers Learning Machine Learning: Motivations, Hurdles, and Desires by Carrie Cai & Philip Guo](http://pgbovine.net/publications/software-developers-learning-machine-learning_VLHCC-2019.pdf)
+[Software Developers Learning Machine Learning: Motivations, Hurdles, and Desires by Cai & Guo](http://pgbovine.net/publications/software-developers-learning-machine-learning_VLHCC-2019.pdf)
 
 
 ### Variational Autoencoders
@@ -40,10 +38,10 @@ Examples of NN Visualizations
 Train VQ-VAE (Vector Quantized Variational Autoencoder) on images of flowers to use latent space interpolation to synthesize flowers that do not exist. Use image segmentation to extract flower and arrange in still life composition inspired by 17th c. Dutch Floral Paintings.
 
 [VQ-VAE](https://arxiv.org/pdf/1711.00937.pdf)
-- 2017 van den Oord et al. "Neural Discrete Representation Learning"
+- 2017 van den Oord et. al "Neural Discrete Representation Learning"
 
 [VQ-VAE-2](https://arxiv.org/pdf/1906.00446.pdf)
-- 2019 Razavi et al. "Generating High-Fidelity Images with VQ-VAE-2"
+- 2019 Razavi et. al "Generating High-Fidelity Images with VQ-VAE-2"
 
 [Flowers Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition)
 - 5 classes: chamomile, tulip, rose, sunflower dandelion
@@ -53,7 +51,7 @@ Train VQ-VAE (Vector Quantized Variational Autoencoder) on images of flowers to 
 - 17 classes: Buttercup, Colet's Foot, Daffodil, Daisy, Dandelion, Friitillary, Iris, Pansy, Sunflower, Windflower, Snowdrop, LilyValley, Bluebell, Tigerlily, Tulip, Cowslip
 - Closer to the kinds of flowers I would like to create
 
-[Small Bouquet of Flowers in a Ceramic, 1599 by Jan Brueghel the Elder](https://upload.wikimedia.org/wikipedia/commons/b/bd/Jan_Bruegel_%28I%29_-_Bouquet_of_Flowers_in_a_Ceramic_Vase.jpg)
+[Small Bouquet of Flowers in a Ceramic, 1599 by Jan Brueghel the Elder](Small Bouquet of Flowers in a Ceramic)
 
 [Interview with Memo Akten](https://www.artnome.com/news/2018/12/13/machine-learning-art-an-interview-with-memo-akten)
 - How does this work function conceptually?
